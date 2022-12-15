@@ -1,0 +1,12 @@
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\bin\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\serka\source\repos\CBYSbil387\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
